@@ -1,0 +1,75 @@
+0 ¿Qué es el BOT?
+0 ¿Qué es BOT?
+0 ¿Qué funcionalidad me ofrece BOT?
+0 ¿Qué me ofrece BOT?
+0 ¿Qué puedo hacer con BOT?
+0 ¿Qué necesito para USAR BOT?
+0 ¿Cómo puedo USAR BOT?
+0 ¿Para qué DISP está disponible BOT?
+0 ¿En qué DISP está disponible BOT?
+0 ¿Para qué DISP está BOT?
+0 ¿En qué DISP está BOT?
+0 ¿Para qué sirve BOT?
+1 ¿Cuál es PREMONTO MONTO que puedo enviar?
+1 ¿Cuál es PREMONTO MONTO que se puede enviar?
+1 ¿Cuál es PREMONTO MONTO que se puede recibir?
+1 ¿Cuál es PREMONTO MONTO que puedo recibir?
+1 ¿Cuál es PREMONTO MONTO que puedo enviar por BOT?
+1 ¿Cuál es PREMONTO MONTO que se puede enviar por BOT?
+1 ¿Cuál es PREMONTO MONTO que se puede recibir por BOT?
+1 ¿Cuál es PREMONTO MONTO que puedo recibir por BOT?
+1 ¿Cuánto MONTO puedo enviar?
+1 ¿Cuánto MONTO se puede enviar?
+1 ¿Cuánto MONTO puedo recibir?
+1 ¿Cuánto MONTO se puede recibir?
+1 ¿Cuánto MONTO puedo cobrar?
+1 ¿Cuánto MONTO se puede cobrar?
+1 ¿Cuánto MONTO puedo transferir?
+1 ¿Cuánto MONTO se puede transferir?
+2 ¿Cuánto tiempo tengo para HACER el FONDEO de UNS ENVIOS?
+2 ¿Cuánto tiempo tengo que esperar para HACER el FONDEO de UNS ENVIOS?
+2 ¿Cuánto tiempo tengo para HACER el FONDEO de UNS ENVIOS a UNSB BENEF?
+2 ¿Cuánto tiempo tengo que esperar para HACER el FONDEO de UNS ENVIOS a UNSB BENEF?
+2 ¿Cuánto tiempo tengo para FONDEAR UNS ENVIOS?
+2 ¿Cuánto tiempo tengo que esperar para FONDEAR UNS ENVIOS?
+2 ¿En cuánto tiempo puede FONDEAR UNS ENVIOS UNSB BENEF?
+2 ¿En cuánto tiempo puede FONDEAR UNS ENVIOS?
+2 ¿En cuánto tiempo se puede FONDEAR UNS ENVIOS?
+3 ¿En dónde puedo HACER el FONDEO de UNS ENVIOS?
+3 ¿En dónde puedo FONDEAR UNS ENVIOS?
+3 ¿dónde puedo HACER el FONDEO de UNS ENVIOS?
+3 ¿dónde puedo FONDEAR UNS ENVIOS?
+3 ¿Qué PRESENTAR al momento de HACER el FONDEO de UNS ENVIOS?
+3 ¿Qué PRESENTAR al momento de FONDEAR UNS ENVIOS?
+3 ¿Qué PRESENTAR para HACER el FONDEO de UNS ENVIOS?
+3 ¿Qué PRESENTAR para FONDEAR UNS ENVIOS?
+3 ¿Qué necesito en caso de querer HACER UNS ENVIOS?
+3 ¿Qué necesito si QUIERO HACER UNS ENVIOS?
+3 ¿Qué documentos PRESENTAR al momento de HACER el FONDEO de UNS ENVIOS?
+3 ¿Qué documentos PRESENTAR al momento de FONDEAR UNS ENVIOS?
+3 ¿Qué documentos PRESENTAR para HACER el FONDEO de UNS ENVIOS?
+3 ¿Qué documentos PRESENTAR para FONDEAR UNS ENVIOS?
+3 ¿Qué documentos QUIERO en caso de querer HACER UNS ENVIOS?
+3 ¿Qué documentos QUIERO si QUIERO HACER UNS ENVIOS?
+3 ¿Cuáles son los horarios de atención para poder HACER UNS ENVIOS?
+3 ¿Cuáles son los horarios de atención si QUIERO HACER UNS ENVIOS?
+3 ¿En dónde puede FONDEAR UNS ENVIOS UNSB BENEF?
+3 ¿dónde puede FONDEAR UNS ENVIOS UNSB BENEF?
+3 ¿Qué PRESENTARB UNSB BENEF para poder FONDEAR UNS ENVIOS?
+3 ¿Qué PRESENTARB para poder FONDEAR UNS ENVIOS?
+3 ¿Qué PRESENTAR para poder FONDEAR UNS ENVIOS?
+4 ¿Cómo puedo CORREGIR PREMONTO DATO del BENEF?
+4 ¿Cómo CORREGIR PREMONTO DATO del BENEF?
+4 ¿Cómo puedo CORREGIR PREMONTO DATO de UNSB BENEF?
+4 ¿Cómo CORREGIR PREMONTO DATO de UNSB BENEF?
+4 ¿Cómo CORRIJO PREMONTO DATO del BENEF?
+4 ¿Cómo CORRIJO PREMONTO DATO de UNSB BENEF?
+4 ¿Qué debo hacer si UNSB BENEF no puede HACER UNS ENVIOS?
+4 ¿Cómo puedo saber si UNSB BENEF ya cobró UNS ENVIOS?
+5 ¿A qué teléfono me puedo comunicar si QUIERO AYUDA?
+5 ¿A dónde me puedo comunicar si QUIERO AYUDA?
+5 ¿A dónde puedo comunicarme si QUIERO AYUDA?
+5 ¿A donde puedo llamar?
+5 ¿A dónde puedo llamar si QUIERO AYUDA?
+5 ¿dónde llamar si QUIERO AYUDA?
+5 QUIERO AYUDA
